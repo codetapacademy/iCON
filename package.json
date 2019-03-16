@@ -2,7 +2,7 @@
   "name": "iCON",
   "version": "0.0.1",
   "description": "",
-  "main": "iCON.js",
+  "main": "src/iCON.js",
   "scripts": {
     "test": "jest"
   },
