@@ -1,0 +1,20 @@
+{
+  "name": "iCON",
+  "version": "0.0.1",
+  "description": "",
+  "main": "iCON.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetapio/iCON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codetapio/iCON/issues"
+  },
+  "homepage": "https://github.com/codetapio/iCON#readme"
+}
